@@ -5,7 +5,8 @@
         "core": "*",
         "microphone": "*",
         "radio-mesh": "github:PythonProLT/microbitRadioMesh#b274c05e942bd00b833d69ab7962c74b1846a461",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "audio-recording": "*"
     },
     "files": [
         "main.blocks",
